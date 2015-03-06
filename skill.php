@@ -1,14 +1,9 @@
-<div class="head">
-	<div id="x">
-		<img src="./icons/small/skill.png">
-	</div>
-	<p>My Skill</p>
-</div>
-<div id="content">
-	<p><img src="./icons/small/right.png" width="27px" height="27px"> C++, C, Qt, Linux</p>
-	<p><img src="./icons/small/right.png" width="27px" height="27px"> Algorithm</p>
-	<p><img src="./icons/small/right.png" width="27px" height="27px"> HTML, HTML5, CSS, CSS3</p>
-	<p><img src="./icons/small/right.png" width="27px" height="27px"> Javascript, PHP, Jquery, MySql, ASP.NET</p>
-	<p><img src="./icons/small/right.png" width="27px" height="27px"> Shell Scripting</p>
-	<p><img src="./icons/small/right.png" width="27px" height="27px"> Java, Android, Python</p>
+<div class="page-header">
+	<p><span class="glyphicon glyphicon-align-left"></span> My Skill</p>
+	<p><span class="glyphicon glyphicon-hand-right"></span> C++, C, Qt, Linux</p>
+	<p><span class="glyphicon glyphicon-hand-right"></span> Algorithm</p>
+	<p><span class="glyphicon glyphicon-hand-right"></span> HTML, HTML5, CSS, CSS3</p>
+	<p><span class="glyphicon glyphicon-hand-right"></span> Javascript, PHP, Jquery, MySql, ASP.NET</p>
+	<p><span class="glyphicon glyphicon-hand-right"></span> Shell Scripting</p>
+	<p><span class="glyphicon glyphicon-hand-right"></span> Java, Android, Python</p>
 </div>

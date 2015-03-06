@@ -1,10 +1,5 @@
-<div class="head">
-	<div id="x">
-		<img src="./icons/small/experience.png">
-	</div>
-	<p>Experience</p>
-</div>
-<div id="content">
-	<p><img src="./icons/small/right.png" width="27px" height="27px"> Looking for an opportunity 
+<div class="page-header">
+	<p><span class="glyphicon glyphicon-folder-open"></span> Experience</p>
+	<p><span class="glyphicon glyphicon-hand-right"></span> Looking for an opportunity 
 	to increase my experience</p>
 </div>
