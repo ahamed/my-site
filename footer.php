@@ -1,0 +1,2 @@
+<p style="text-align:center">You can find the souce code at <a href="https://github.com/InsomniacSabbir/my-site">GitHub</a></p>
+<p style="text-align:center">Copyright &copy; 2015 &middot; All Rights Reserved &middot; <a href="/my-site" >My Website</a></p>

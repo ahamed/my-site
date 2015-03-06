@@ -1,0 +1,29 @@
+#wrap
+{
+	margin-right: 300px;
+	margin-left: 300px;
+}
+.head
+{
+	background-color: #C7C3C3;
+	font-size: 27px;
+	font-weight: bold ;
+}
+#name
+{
+	text-align: center;
+	font-weight: bolder;
+	font-size: 50px;
+	color: black;
+}
+#x
+{
+	float:left;
+	padding-right: 20px;
+}
+#content
+{
+	clear: both;
+	font-size: 25px;
+	margin-left: 35px;
+}
