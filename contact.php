@@ -12,6 +12,6 @@
 	<a href="https://www.linkedin.com/insomniac"><img src="./icons/social32/linkedin.png" style="padding-right:20px"></a>
 	<a href="https://www.zerone.wordpress.com"><img src="./icons/social32/wordpress.png" style="padding-right:20px"></a>
 	<a href="https://www.skype.com"><img src="./icons/social32/skype.png" style="padding-right:20px"></a>
-
+	
 	<p style="font-size:30px">You may find my <a href="http://www.zerone.wordpress.com">Bangla</a> and <a href="http://www.zerone.wordpress.com">English</a> Blog Interesting</p>
 </div>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="shortcut icon" type="image/x-icon" href="./icons/header/Letter_S_Icon_16.png" />
 	<title>Sabbir's Blog</title>
 	<link rel="stylesheet" type="text/css" href="css/mystyle.css">
 </head>
