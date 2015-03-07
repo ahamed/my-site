@@ -1,5 +1,5 @@
 <div class="page-header">
-	<h3><span class="glyphicon glyphicon-hand-right"></span> Contact Me</h3>
+	<h3><span class="glyphicon glyphicon glyphicon-phone-alt"></span> Contact Me</h3>
 	<p>You can contact me at sabbiralam [dot] cse [at] gmail [dot] com or you can connect with me 
 	through these social services.</p>
 	<div class="row">

@@ -1,5 +1,5 @@
 <div class="page-header">
-	<h3><span class="glyphicon glyphicon-book"></span> Education</h3>
+	<h3><span class="glyphicon glyphicon-book"></span>  Education</h3>
 	<p><span class="glyphicon glyphicon-hand-right"></span> Programming Android Mobile Handheld System(Coursera) 100%</p>
 	<p><span class="glyphicon glyphicon-hand-right"></span> Programming with Python(Coursera) 100%</p>
 	<p><span class="glyphicon glyphicon-hand-right"></span> Database Management(Coursera) 100%</p>

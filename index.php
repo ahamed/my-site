@@ -2,12 +2,12 @@
 <html>
 <head>
 	<title>Sabbir's Blog</title>
-	<meta name="viewport" content="width=device-width, initial-scale=2.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" type="text/css" href="css/mystyle.css">
-    <link rel="shortcut icon" href="">
+    <link rel="shortcut icon" href="./icons/S.png" alt="Sabbir Alam">
 </head>
 <body>
 	<div class="container">
