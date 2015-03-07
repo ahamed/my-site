@@ -27,3 +27,13 @@
 	font-size: 25px;
 	margin-left: 35px;
 }
+.container
+{
+	margin-left:300px;
+	margin-right:800px;
+	font-size: 23px;
+}
+h1,h3,h4
+{
+	font-weight:bold;
+}

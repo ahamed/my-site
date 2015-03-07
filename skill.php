@@ -1,5 +1,5 @@
 <div class="page-header">
-	<p><span class="glyphicon glyphicon-align-left"></span> My Skill</p>
+	<h3><span class="glyphicon glyphicon-align-left"></span> My Skill</h3>
 	<p><span class="glyphicon glyphicon-hand-right"></span> C++, C, Qt, Linux</p>
 	<p><span class="glyphicon glyphicon-hand-right"></span> Algorithm</p>
 	<p><span class="glyphicon glyphicon-hand-right"></span> HTML, HTML5, CSS, CSS3</p>

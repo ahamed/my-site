@@ -1,3 +1,3 @@
 <div class="page-header">
-	<p><span class="glyphicon glyphicon-user"></span> Personal Interest</p>
+	<h3><span class="glyphicon glyphicon-user"></span> Personal Interest</h3>
 </div>
