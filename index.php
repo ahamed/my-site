@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" type="text/css" href="css/mystyle.css">
-    <link rel="shortcut icon" href="./icons/S.png" alt="Sabbir Alam">
+    <link rel="shortcut icon" href="./icons/SS.png">
 </head>
 <body>
 	<div class="container">

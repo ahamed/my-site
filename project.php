@@ -5,5 +5,5 @@
 	<p><span class="glyphicon glyphicon-hand-right"></span> <a href="https://github.com/InsomniacSabbir/BuildmLearn-Toolkit"> BuildmLearn-Toolkit</a></p>
 	<p><span class="glyphicon glyphicon-hand-right"></span> <a href="https://github.com/InsomniacSabbir/readerhelper"> Reader Helper</a></p>
 	<p><span class="glyphicon glyphicon-hand-right"></span> For other proejecs that I created and contributed you might want to got to
-	<a href="https://github.com/InsomniacSabbir"><img src="./icons/small/GitHub_Logo.png" width="50px" height="30px"></a></p>
+	<a href="http://github.com/InsomniacSabbir"><img src="./icons/small/GitHub-Mark-32px.png" alt="GitHub"></a></p>
 </div>
